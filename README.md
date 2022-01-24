@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I'm a Python programmer and an FSD. I like to learn cool stuff.
 
 <!--
 **solletravinder/solletravinder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
