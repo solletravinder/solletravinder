@@ -21,5 +21,5 @@ Here are some ideas to get you started:
 💻 Prefer: Ubuntu(3 years), Windows(6 months+)(current)
 
 <p>
-<img src="https://github-readme-stats.vercel.app/api?username=solletravinder&count_private=true&include_all_commits=true&show_icons=true&title_color=0969da&icon_color=0969da&text_color=24292e&bg_color=ffffff" />
+<img src="https://github-readme-stats.vercel.app/api?username=solletravinder&count_private=true&include_all_commits=true&show_icons=true&theme=dracula" />
 </p>
