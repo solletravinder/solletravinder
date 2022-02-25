@@ -22,4 +22,5 @@ Here are some ideas to get you started:
 
 <p>
 <img src="https://github-readme-stats.vercel.app/api?username=solletravinder&count_private=true&include_all_commits=true&show_icons=true&theme=dracula" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=solletravinder&background=f7f4f1&stroke=3c005a&ring=3c005a&fire=3c005a&currStreakNum=3c005a&sideNums=3c005a&currStreakLabel=3c005a&sideLabels=3c005aa&dates=3c005a)](https://git.io/streak-stats)"/>
 </p>
