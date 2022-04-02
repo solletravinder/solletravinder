@@ -24,4 +24,6 @@ Here are some ideas to get you started:
 <img src="https://github-readme-stats.vercel.app/api?username=solletravinder&count_private=true&include_all_commits=true&show_icons=true&theme=dracula" />
 <img src="https://github-readme-streak-stats.herokuapp.com?user=solletravinder&theme=dracula&date_format=j%20M%5B%20Y%5D"/>
   
+<img src="https://activity-graph.herokuapp.com/graph?username=solletravinder&theme=rogue" />
+  
 </p>
