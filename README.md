@@ -30,5 +30,5 @@ Here are some ideas to get you started:
 <!-- <img src="https://activity-graph.herokuapp.com/graph?username=solletravinder&theme=rogue" /> -->
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=solletravinder&layout=compact&langs_count=7&theme=dracula"/>
 
-<a href="https://app.daily.dev/solletravinder"><img src="https://api.daily.dev/devcards/1c9d4725fab247d483fa0dce38c7cc9f.png?r=y8g" width="400" alt="Ravinder Sollet's Dev Card"/></a>
-</p>
+[<a href="[https://app.daily.dev/solletravinder](https://api.daily.dev/devcards/1c9d4725fab247d483fa0dce38c7cc9f.png?r=vd5)"><img src="https://api.daily.dev/devcards/1c9d4725fab247d483fa0dce38c7cc9f.png?r=y8g" width="400" alt="Ravinder Sollet's Dev Card"/></a>
+</p>](https://api.daily.dev/devcards/1c9d4725fab247d483fa0dce38c7cc9f.png?r=vd5)
