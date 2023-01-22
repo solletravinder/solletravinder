@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 <img src="https://github-readme-stats.vercel.app/api?username=solletravinder&count_private=true&include_all_commits=true&show_icons=true&theme=dracula" />
 <img src="https://github-readme-streak-stats.herokuapp.com?user=solletravinder&theme=dracula&date_format=j%20M%5B%20Y%5D"/>
   
-<!-- <img src="https://activity-graph.herokuapp.com/graph?username=solletravinder&theme=rogue" /> -->
+
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=solletravinder&layout=compact&langs_count=7&theme=dracula"/>
 
-<a href="https://app.daily.dev/solletravinder"><img src="[https://github.com/solletravinder/solletravinder/blob/master/devcard.svg](https://github.com/solletravinder/solletravinder/blob/main/devcard.svg)" width="400" alt="Ravinder Sollet's Dev Card"/></a>
+<a href="https://app.daily.dev/solletravinder"><img src="https://raw.githubusercontent.com/solletravinder/solletravinder/main/devcard.svg" width="400" alt="Ravinder Sollet's Dev Card"/></a>
