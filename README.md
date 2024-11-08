@@ -30,4 +30,4 @@ Here are some ideas to get you started:
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=solletravinder&layout=compact&langs_count=7&theme=dracula"/>
 
-<a href="https://app.daily.dev/solletravinder"><img src="https://github.com/solletravinder/solletravinder/blob/main/devcard.svg" width="400" alt="Ravinder Sollet's Dev Card"/></a>
+<!-- <a href="https://app.daily.dev/solletravinder"><img src="https://github.com/solletravinder/solletravinder/blob/main/devcard.svg" width="400" alt="Ravinder Sollet's Dev Card"/></a> -->
