@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 😄 Pronouns: He/Him/His
 
-💻 Prefer: Ubuntu(3 years), Windows(6 months+)(current)
+💻 Prefer: Ubuntu(3 years), Windows(2 years+)(current)
 <p>
 <img src="https://www.codewars.com/users/solletravinder/badges/large" />
 </p>
